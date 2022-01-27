@@ -1,0 +1,9 @@
+for the lottery app there are a few components that need to be in place
+
+- takes user wager and creates a ticket to be verified against the winning numbers
+- stores the tickets in a database of some sort
+- randomly generates winning sequence of numbers
+- verifies the tickets against the winning numbers
+- calculates the payouts based on the number of winners
+- announces the winners and payouts
+- clears the entries and the winning numbers, refreshing the game
